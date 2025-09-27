@@ -81,6 +81,9 @@ cd medintel-healthcare
 
 # Install backend dependencies
 cd backend
+#for windows(create virtual environment)
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
 # Install frontend dependencies  
@@ -121,24 +124,15 @@ python scripts/setup_database.py
 ### 4. Start Services
 
 ```bash
-# Option 1: Start all services together
-npm run dev
-
-# Option 2: Start services separately
 # Terminal 1 - Backend API
 cd backend
+.venv\Scripts\Activate.ps1
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
 # Terminal 2 - Frontend
 cd frontend  
 npm run dev
 
-# Terminal 3 - Redis (for background tasks)
-redis-server
-
-# Terminal 4 - Celery Worker (for AI processing)
-cd backend
-celery -A app.celery worker --loglevel=info
 ```
 
 ## 🧪 Testing Commands
