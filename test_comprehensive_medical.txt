@@ -1,0 +1,149 @@
+COMPREHENSIVE MEDICAL REPORT
+============================
+
+PATIENT INFORMATION:
+Patient Name: Sarah Johnson
+DOB: 1985-07-22 (Age: 40)
+Patient ID: MRN-789456
+Gender: Female
+Phone: (555) 123-4567
+
+FACILITY INFORMATION:
+Hospital: City General Medical Center
+Department: Internal Medicine
+Attending Physician: Dr. Michael Thompson, MD
+Report Date: September 15, 2025
+
+VITAL SIGNS:
+Blood Pressure: 138/88 mmHg (Stage 1 Hypertension)
+Heart Rate: 82 bpm
+Respiratory Rate: 16/min
+Temperature: 98.4°F (36.9°C)
+Weight: 165 lbs (75 kg)
+Height: 5'6" (168 cm)
+BMI: 26.6 (Overweight)
+Oxygen Saturation: 98%
+Pain Scale: 2/10
+
+COMPREHENSIVE LABORATORY RESULTS:
+================================
+
+COMPLETE BLOOD COUNT:
+White Blood Cells: 8.2 K/μL (Normal: 4.0-11.0)
+Red Blood Cells: 4.3 M/μL (Normal: 4.2-5.4)
+Hemoglobin: 13.1 g/dL (Normal: 12.0-16.0)
+Hematocrit: 39.5% (Normal: 36-46)
+Platelets: 295 K/μL (Normal: 150-450)
+MCV: 88 fL (Normal: 80-100)
+MCH: 30 pg (Normal: 27-32)
+MCHC: 34 g/dL (Normal: 32-36)
+
+COMPREHENSIVE METABOLIC PANEL:
+Glucose (Fasting): 118 mg/dL (Slightly Elevated, Normal: 70-99)
+BUN: 22 mg/dL (Slightly Elevated, Normal: 7-20)
+Creatinine: 1.1 mg/dL (Normal: 0.6-1.2)
+eGFR: 68 mL/min/1.73m² (Mildly Decreased)
+Sodium: 142 mEq/L (Normal: 136-145)
+Potassium: 4.1 mEq/L (Normal: 3.5-5.0)
+Chloride: 105 mEq/L (Normal: 98-107)
+CO2: 24 mEq/L (Normal: 22-28)
+
+LIPID PANEL:
+Total Cholesterol: 215 mg/dL (Borderline High, Normal: <200)
+HDL Cholesterol: 42 mg/dL (Low, Normal: >50 for women)
+LDL Cholesterol: 138 mg/dL (Borderline High, Normal: <100)
+Triglycerides: 175 mg/dL (Borderline High, Normal: <150)
+Non-HDL Cholesterol: 173 mg/dL
+
+LIVER FUNCTION TESTS:
+ALT (SGPT): 28 U/L (Normal: 7-35)
+AST (SGOT): 24 U/L (Normal: 8-40)
+Total Bilirubin: 0.8 mg/dL (Normal: 0.3-1.2)
+Direct Bilirubin: 0.2 mg/dL (Normal: 0.0-0.3)
+Alkaline Phosphatase: 95 U/L (Normal: 44-147)
+Albumin: 4.2 g/dL (Normal: 3.5-5.0)
+
+ENDOCRINE TESTS:
+HbA1c: 6.8% (Prediabetes, Normal: <5.7%)
+TSH: 2.8 mIU/L (Normal: 0.4-4.0)
+Free T4: 1.3 ng/dL (Normal: 0.8-1.8)
+
+INFLAMMATORY MARKERS:
+C-Reactive Protein (CRP): 3.2 mg/L (Elevated, Normal: <3.0)
+ESR: 22 mm/hr (Slightly Elevated, Normal: <20)
+
+COAGULATION STUDIES:
+PT: 12.5 seconds (Normal: 11.0-13.0)
+PTT: 32 seconds (Normal: 25-35)
+INR: 1.1 (Normal: 0.8-1.2)
+
+CURRENT MEDICATIONS:
+===================
+1. Metformin 1000mg PO BID (for diabetes management)
+2. Lisinopril 10mg PO daily (for hypertension)
+3. Atorvastatin 20mg PO bedtime (for dyslipidemia)
+4. Aspirin 81mg PO daily (for cardiovascular protection)
+5. Vitamin D3 2000 IU PO daily (for vitamin D deficiency)
+6. Multivitamin 1 tablet PO daily
+
+ALLERGIES:
+Penicillin (causes rash and itching)
+Sulfa drugs (causes nausea)
+
+DIAGNOSES:
+==========
+PRIMARY DIAGNOSES:
+- Type 2 Diabetes Mellitus, well-controlled (E11.9)
+- Essential Hypertension (I10)
+- Mixed Dyslipidemia (E78.2)
+
+SECONDARY DIAGNOSES:
+- Prediabetes (R73.03)
+- Overweight (Z68.25)
+- Chronic Kidney Disease, Stage 2 (N18.2)
+
+CHRONIC CONDITIONS:
+- Family history of cardiovascular disease
+- Vitamin D deficiency
+- Metabolic syndrome
+
+CLINICAL ASSESSMENT:
+==================
+40-year-old female with well-controlled diabetes, hypertension, and dyslipidemia. 
+Recent labs show:
+- Slightly elevated fasting glucose requiring monitoring
+- Borderline lipid levels on current statin therapy
+- Mild kidney function decline requiring nephrology follow-up
+- Inflammatory markers suggest low-grade systemic inflammation
+
+RECOMMENDATIONS:
+===============
+1. Continue current diabetes medications - excellent HbA1c control
+2. Increase Lisinopril to 15mg daily for better BP control
+3. Consider increasing Atorvastatin to 40mg for LDL goal <100
+4. Nephrology consultation for CKD management
+5. Dietary consultation for weight management and cardiac diet
+6. Cardiology evaluation given family history and risk factors
+7. Repeat lipid panel in 6 weeks after medication adjustment
+8. Continue low-dose aspirin for cardiovascular protection
+
+FOLLOW-UP PLAN:
+==============
+- Return visit in 8 weeks for medication adjustment review
+- Repeat comprehensive metabolic panel in 3 months
+- Annual diabetic eye exam scheduled
+- Mammogram due (age-appropriate screening)
+- Colonoscopy recommended at age 45
+
+PROVIDER NOTES:
+==============
+Patient is compliant with medications and motivated for lifestyle changes.
+Discussed importance of diet modification and regular exercise.
+Patient understanding confirmed for all recommendations.
+Will monitor kidney function closely given family history.
+
+Electronically signed by:
+Dr. Michael Thompson, MD
+Internal Medicine
+City General Medical Center
+September 15, 2025, 2:30 PM

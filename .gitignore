@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+frontend/.next/
+frontend/.env*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/.env*
+backend/venv/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.coverage
+backend/.cache/
+backend/.DS_Store
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Uploads and temp
+uploads/documents/temp/
+uploads/documents/test/
+
+# Alembic
+backend/alembic/versions/
+
+# Misc
+*.sqlite3
+*.db
+*.bak
+*.tmp
+
+# Test outputs
+*.html
+*.jpg
+*.png
+*.pdf
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Coverage
+coverage.xml
+
+# Others
+.env
+.env.*
