@@ -1,8 +1,0 @@
-{
-  "patient_id": 1,
-  "provider_id": 1,
-  "appointment_date": "2025-09-20",
-  "start_time": "10:00:00",
-  "appointment_type": "consultation",
-  "notes": "Test appointment via API"
-}
